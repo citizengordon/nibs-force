@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportFolder xmlns="http://soap.sforce.com/2006/04/metadata">
+    <folderShares>
+        <accessLevel>Manage</accessLevel>
+        <sharedTo>quinton.gw6kadudkcvm.6rb2qnwjwxdk.ew3b3n6njeor@mr.nibs</sharedTo>
+        <sharedToType>User</sharedToType>
+    </folderShares>
+    <name>Loyalty Reports</name>
+</ReportFolder>
