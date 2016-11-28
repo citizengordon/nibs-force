@@ -8,3 +8,7 @@ Nibs 2.0
 Nibs is a Salesforce App Cloud application - it has components which are
 developed in Node.js and run on Heroku, and components which are developed in
 Salesforce and run on Force.com.
+
+Together, the Force.com and Heroku Platforms provide developers myriad options
+for configuring, customizing, and coding applications.
+
