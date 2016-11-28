@@ -14,42 +14,17 @@
         <name>CustomApplication</name>
     </types>
     <types>
-        <members>Campaign.Stock_Image__c</members>
-        <members>Campaign.campaignPage__c</members>
-        <members>Campaign.image__c</members>
-        <members>Campaign.pic__c</members>
-        <members>Campaign.publishDate__c</members>
-        <members>Contact.Gender__c</members>
-        <members>Contact.LoyaltyId__c</members>
-        <members>Contact.Loyalty_Badge__c</members>
-        <members>Contact.Loyalty_Points__c</members>
-        <members>Contact.Preference__c</members>
-        <members>Contact.Size__c</members>
-        <members>Contact.fbUserId__c</members>
-        <members>Contact.password__c</members>
-        <members>Contact.pic__c</members>
-        <members>Contact.pictureURL__c</members>
-        <members>Interaction__c.Campaign__c</members>
-        <members>Interaction__c.Contact__c</members>
-        <members>Interaction__c.Name__c</members>
-        <members>Interaction__c.Picture__c</members>
-        <members>Interaction__c.Points__c</members>
-        <members>Interaction__c.Product__c</members>
-        <members>Interaction__c.Type__c</members>
-        <members>Product2.image__c</members>
-        <members>Product2.pic__c</members>
-        <members>Product2.productPage__c</members>
-        <members>Product2.publishDate__c</members>
-        <members>Store__c.Location__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
         <members>Campaign</members>
         <members>Contact</members>
         <members>Interaction__c</members>
         <members>Product2</members>
         <members>Store__c</members>
         <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Interaction__c</members>
+        <members>Store__c</members>
+        <name>CustomTab</name>
     </types>
     <types>
         <members>CompanyDashboards</members>
@@ -76,6 +51,10 @@
         <members>Loyalty_Reports/Saved_To_Wallet</members>
         <members>Loyalty_Reports/Wishlist_by_Campaign</members>
         <name>Report</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ReportType</name>
     </types>
     <types>
         <members>eLoyalty</members>
