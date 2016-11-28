@@ -44,6 +44,14 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>Campaign</members>
+        <members>Contact</members>
+        <members>Interaction__c</members>
+        <members>Product2</members>
+        <members>Store__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>CompanyDashboards</members>
         <members>CompanyDashboards/Customer_Interactions</members>
         <name>Dashboard</name>
