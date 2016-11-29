@@ -26,10 +26,7 @@
         <enabled>true</enabled>
         <name>AssignTopics</name>
     </userPermissions>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>AuthorApex</name>
-    </userPermissions>
+
     <userPermissions>
         <enabled>true</enabled>
         <name>CanInsertFeedSystemFields</name>
