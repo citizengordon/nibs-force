@@ -23,6 +23,7 @@
     </types>
     <types>
         <members>Interaction__c</members>
+        <members>Nibs_Data_Install</members>
         <members>Store__c</members>
         <name>CustomTab</name>
     </types>
@@ -43,6 +44,10 @@
         <members>Product2-Nibs Product Layout</members>
         <members>Store__c-Store Layout</members>
         <name>Layout</name>
+    </types>
+    <types>
+        <members>NIBS Admin</members>
+        <name>Profile</name>
     </types>
     <types>
         <members>Loyalty_Reports</members>

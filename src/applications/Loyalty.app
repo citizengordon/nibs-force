@@ -8,4 +8,5 @@
     <tab>standard-Product2</tab>
     <tab>Interaction__c</tab>
     <tab>Store__c</tab>
+    <tab>Nibs_Data_Install</tab>
 </CustomApplication>
