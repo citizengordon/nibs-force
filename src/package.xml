@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>NibsDataLoader</members>
-        <members>Test_NibsDataLoader</members>
+        <members>*</members>
         <name>ApexClass</name>
     </types>
     <types>
-        <members>eLoyaltyDataLoad</members>
+        <members>*</members>
         <name>ApexPage</name>
     </types>
     <types>
@@ -22,9 +21,7 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>Interaction__c</members>
-        <members>Nibs_Data_Install</members>
-        <members>Store__c</members>
+        <members>*</members>
         <name>CustomTab</name>
     </types>
     <types>
@@ -46,7 +43,7 @@
         <name>Layout</name>
     </types>
     <types>
-        <members>NIBS Admin</members>
+        <members>NibsAdmin</members>
         <name>Profile</name>
     </types>
     <types>
@@ -62,14 +59,7 @@
         <name>ReportType</name>
     </types>
     <types>
-        <members>eLoyalty</members>
-        <members>eLoyalty_CampaignsJSON</members>
-        <members>eLoyalty_ProductsJSON</members>
-        <members>eLoyalty_StoresJSON</members>
-        <members>level0Badge</members>
-        <members>level1Badge</members>
-        <members>level2Badge</members>
-        <members>level3Badge</members>
+        <members>*</members>
         <name>StaticResource</name>
     </types>
     <version>36.0</version>
