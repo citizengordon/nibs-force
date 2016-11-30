@@ -12,3 +12,9 @@ Salesforce and run on Force.com.
 Together, the Force.com and Heroku Platforms provide developers myriad options
 for configuring, customizing, and coding applications.
 
+EXPERIMENTAL BUTTON
+<a href="https://githubsfdeploy.herokuapp.com?owner=gordonatheroku&repo=nibs-force">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/deploy.png">
+</a>
+
