@@ -46,6 +46,10 @@
         <name>Layout</name>
     </types>
     <types>
+        <members>NIBS Admin</members>
+        <name>Profile</name>
+    </types>
+    <types>
         <members>Loyalty_Reports</members>
         <members>Loyalty_Reports/Campaign_Interactions_By_Type</members>
         <members>Loyalty_Reports/Customer_Preferences</members>
